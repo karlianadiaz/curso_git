@@ -1,0 +1,77 @@
+    1  clear
+    2  git log
+    3  git log --pretty=oneline
+    4  git log --stat
+    5  git log -p
+    6  git log --pretty=oneline -2
+    7  git log --since=2.minutes
+    8  git log --since=20.minutes
+    9  git log
+   10  git status
+   11  touch teste
+   12  git add teste
+   13  git status
+   14  git commit -m "commit de teste"
+   15  git log
+   16  git reset --soft HEAD~
+   17  GIT LOG
+   18  git log
+   19  git status
+   20  git status
+   21  git commit -m "commit de teste"
+   22  git log
+   23  git reset --hard
+   24  git log
+   25  git reset --hard HEAD~
+   26  git status
+   27  git log
+   28  git log --pretty=oneline
+   29  git checkout HEAD~~
+   30  git status
+   31  git log
+   32  ls
+   33  git checkout mastes
+   34  git checkout master
+   35   git log
+   36  mkdir .vscode
+   37  touch conf.txt .vsconde
+   38  ls
+   39  git status
+   40  $ echo ".vscode"
+   41  touch conf.txt .vscode
+   42  ls
+   43  git status
+   44  git rm --cache .vsconde
+   45  git status
+   46  git rm --cached .vsconde
+   47  git status
+   48  git restore --staged .vsconde
+   49  git status
+   50  git rm --staged .vsconde
+   51  git status
+   52  git restore --staged .vsconde
+   53  git status
+   54  git restore --staged .
+   55  git status
+   56  git log
+   57  git status
+   58  git rm --cached .vsconde
+   59  git status
+   60  git rm --cached conf.txt
+   61  ls -a
+   62  git status
+   63  touch conf.txt .vscode
+   64  git status
+   65  echo ".vsconde" >> .gitignore
+   66  git status
+   67  echo "tatus" >> .gitignore
+   68  echo "conf.txt" >> .gitignore
+   69  git status
+   70  git add .gitignore
+   71  git commit -m "adicionar arquivo .gitgnore"
+   72  git status
+   73  history >
+   74  history
+   75  history >
+   76  history>
+   77  history >aula_4.txt
